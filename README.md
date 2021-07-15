@@ -1,2 +1,2 @@
-# udactity
+# udacity
 cloud developer stuff
